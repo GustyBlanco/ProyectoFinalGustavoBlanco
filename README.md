@@ -6,11 +6,6 @@ El proyecto consta de un BLOG:
 •	Permite registrarse.
 •	Ingreso a un post una vez registrado.
 •	Deslogueo.
-•	Solo los registrados pueden:
-      o Modificar, agregar o eliminar post
+•	Solo los registrados pueden: Modificar, agregar o eliminar post.
 •	Aquellos que no se encuentren registrados no podrán realizar lo anterior.
-•	Herramientas utilizadas:
-      o Git-GitHub
-      o VSC
-      o Bootstrap
-      o Django
+•	Herramientas utilizadas: Git-GitHub, VSC, Bootstrap, Django.
